@@ -1,0 +1,27 @@
+.delete-book {
+  border: none;
+  background-color: transparent;
+  color: red;
+  position: absolute;
+  top: 0;
+  right: 10px;
+}
+
+.card {
+    position: relative;
+}
+
+.book-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    margin-bottom: 10px;
+}
+
+#searchBtn {
+    margin-left: 5px;
+}
